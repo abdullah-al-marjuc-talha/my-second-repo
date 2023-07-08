@@ -1,0 +1,13 @@
+div
+{
+
+    color: white;
+    background-color: brown;
+    padding: 20px;
+    margin: 10px;
+    border: 40px;
+    border-color: solid blueviolet;
+    border-radius: 20px;
+    box-shadow: 40px green;
+
+}
